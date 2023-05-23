@@ -1,8 +1,10 @@
 # Data-Engineering-and-Visualization
 
+## Overview 
+
 This repository serves as a comprehensive collection of codes and projects related to data engineering and visualization. It includes a range of scripts, modules, and applications that demonstrate various aspects of data processing, transformation, integration, cleaning, storage, as well as data visualization techniques. By exploring this repository, users can gain practical insights into implementing data engineering and visualization tasks, leveraging different programming languages, frameworks, and tools commonly used in these domains.
 
-## Data Engineering & Visualization Overview
+## About
 
 Data engineering and visualization are two essential components of the data analysis and decision-making process. Let's take a closer look at each of these domains:
 
