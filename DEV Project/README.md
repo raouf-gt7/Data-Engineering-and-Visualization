@@ -1,8 +1,10 @@
-# DEV Project Milestone 1
+# DEV Project Milestone 1 + 2
 
-The goal of the project is to go through the complete data engineering process to answer questions about the dataset. 
+## Milestone 1
 
-In this milestone we will be:
+The goal of the milestone 1 is to go through the complete data engineering process to answer questions about the dataset. 
+
+In milestone 1 we will be:
 - Exploring the data
 - Finding our research questions
 - Cleaning our data 
@@ -25,5 +27,17 @@ Our Final Research questions were:
 11. What attribute determines the brand's pricing?
 12. Does the average price change based on colour, drive or fuel type?
 13. Can we predict the price based on other attributes?
+
+
+## Milestone 2
+
+For milestone 2 we will be performing the following tasks:
+
+- Data Integration
+- Data Cleaning 
+- Feature Engineering 
+- Analysis
+
+Visualization will be shown as well as markdown cells explaining the insights we gained from the graph. 
 
 
