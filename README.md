@@ -8,7 +8,7 @@ This repository serves as a comprehensive collection of codes and projects relat
 
 Data engineering and visualization are two essential components of the data analysis and decision-making process. Let's take a closer look at each of these domains:
 
-Data Engineering:
+### Data Engineering:
 
 Data engineering involves the design, development, and maintenance of systems and processes that collect, transform, and store data. Its main goal is to ensure that data is organized, accessible, and ready for analysis. Here are some key aspects of data engineering:
 
@@ -22,7 +22,7 @@ Data engineering involves the design, development, and maintenance of systems an
 
 5. Data Quality and Governance: Data engineers implement strategies to ensure data quality, integrity, and security. They enforce data governance policies and establish data pipelines that are robust, scalable, and reliable.
 
-Data Visualization:
+### Data Visualization:
 
 Data visualization refers to the graphical representation of data to facilitate understanding, exploration, and communication of insights. It involves creating visual artifacts such as charts, graphs, dashboards, and reports. Here are some key aspects of data visualization:
 
